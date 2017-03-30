@@ -41,7 +41,7 @@ dependencies {
     } else {
         compile "com.eaglesakura:java-commons:2.0.3"
 
-        testCompile "com.eaglesakura:simple-logger:2.0.462"
+        testCompile "com.eaglesakura:simple-logger:2.0.463"
     }
 
     testCompile 'junit:junit:4.12'
